@@ -2,7 +2,13 @@
 
 Awesome Zcash Ecosystem (exhaustive curated list with website links)
 
-A structured, privacy-focused curated list of projects in the Zcash (ZEC) ecosystem, modeled on awesome-privacy style lists. Zcash enables optional strong privacy via zero-knowledge proofs (shielded pools: Sprout/Sapling/Orchard + Unified Addresses). This draws from official ecosystem pages, ZecHub, community trackers (e.g. eli5defi dashboard ~77 projects as of mid-2026), forum listings, and active sites as of late July 2026 (Ironwood/NU6.3 era; zcashd EOL; Zebra + Zakura dominant). Statuses change—always verify shielded support, audits, network upgrade compatibility, and security yourself. Prefer open-source, self-custody, and shielded-by-default tools. 
+A structured, privacy-focused curated list of projects in the Zcash (ZEC) ecosystem, modeled on awesome-privacy style lists. Zcash enables optional strong privacy via zero-knowledge proofs (shielded pools: Sprout/Sapling/Orchard + Unified Addresses). 
+
+Ddraws from official ecosystem pages, ZecHub, community trackers (e.g. eli5defi dashboard ~77 projects as of mid-2026), forum listings, and active sites as of late July 2026 (Ironwood/NU6.3 era; zcashd EOL; Zebra + Zakura dominant). 
+
+Status change — always verify shielded support, audits, network upgrade compatibility, and security yourself. 
+
+Prefer open-source, self-custody, and shielded-by-default tools. 
 
 **Organizations / Core Stewards**
 - ZODL (Zcash Open Development Lab) — Full-stack core protocol R&D, zcashd transition management, Zodl wallet, Zallet. https://zodl.com
