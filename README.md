@@ -106,7 +106,6 @@ Note: Confirm NU6.x/Ironwood compatibility. Many multi-coin wallets have limited
 - zcash-localnet - Local multi-node Zcash network for development, testing, and integration: https://github.com/zcash/zcash-localnet
 - Zcash DevTool - Utilities for testing, debugging, and developing Zcash applications: https://github.com/zcash/zcash-devtool
 - zcash-testnet-wallet - One-command testnet wallet: prebuilt zcash-devtool, utest1 address + QR, funded from a faucet, plus a viewing-key payment watcher: https://github.com/anukulpandey/zcash-testnet-wallet
-- zcash-faucet - Command-line testnet faucet (npx zcash-faucet <address>), proof-of-work instead of accounts or IP limits: https://github.com/anukulpandey/zcash-faucet
 
 _Read the Docs / developer portals via z.cash and ZF._
 
